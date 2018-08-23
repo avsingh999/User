@@ -1,0 +1,75 @@
+h2 {
+    font-weight: 300;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+
+}
+
+.input {
+    font-size: 20px;
+    width: 60%;
+    margin: 1%;
+    margin-left: 15%;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    font-weight: 400;
+}
+button {
+    font-size: 15px;
+    padding: 10px;
+    color: #ffffff;
+    width: 25%;
+    margin-left: 11%;
+
+}
+ a {
+    margin-left: 60%;
+
+}
+.error {
+  
+    color: #fff;
+    margin-top: 40%;
+    color: rgb(231, 16, 16);
+    font-size: 17px;
+} 
+
+
+.label{
+    color:#fff;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+
+
+.element {
+    height: 200px;
+    width: 200px;
+    margin: 5% auto;
+    background-color: white;
+    animation-name: stretch;
+    animation-duration: 1.6s; 
+    animation-timing-function: ease-out; 
+    animation-delay: 0;
+    /* animation-direction: alternate; */
+    animation-iteration-count: infinite;
+    animation-fill-mode: none;
+    animation-play-state: running;
+  }
+  
+  @keyframes stretch {
+    0% {
+      transform: scale(0);
+      background-color:white;
+      border-radius: 100%;
+    }
+    100% {
+        
+      background-color:white;
+      border-radius: 100%;
+    }
+
+  }
+  

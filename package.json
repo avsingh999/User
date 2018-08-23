@@ -1,0 +1,25 @@
+{
+  "name": "home2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "firebase": "^5.4.0",
+    "moment": "^2.22.2",
+    "moment-range": "^4.0.1",
+    "react": "^16.4.2",
+    "react-bootstrap": "^0.32.3",
+    "react-datepicker": "^1.6.0",
+    "react-dom": "^16.4.2",
+    "react-fontawesome": "^1.6.1",
+    "react-radio-buttons": "^1.2.2",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

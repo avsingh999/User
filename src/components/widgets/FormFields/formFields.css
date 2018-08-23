@@ -1,0 +1,46 @@
+
+
+ h2 {
+    font-weight: 300;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(153, 138, 138);
+
+}
+.data{
+    /* text-align: center; */
+    margin-left: 2.6%;
+}
+
+.input {
+    font-size: 20px;
+    width: 60%;
+    /* margin: 1%; */
+    margin-left: 15%;
+    /* padding: 12px 10px; */
+    box-sizing: border-box;
+    font-weight: 400;
+   
+
+}
+ Button {
+    font-size: 15px;
+    width: 15%;
+    margin-left: 45%;
+
+}
+.logContainer a {
+    margin-left: 60%;
+
+}
+.errorr {
+   color: rgb(231, 16, 16);
+
+} 
+
+
+.label{
+    color:#fff;
+    font-weight: 300;
+    font-size: 20px;
+}
