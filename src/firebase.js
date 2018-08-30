@@ -1,12 +1,7 @@
 import * as firebase from 'firebase';
 
 var config = {
-    apiKey: "AIzaSyCarjSYgBVfmVE7sPDdbQ8llwKscbngn7Q",
-    authDomain: "home-f03c2.firebaseapp.com",
-    databaseURL: "https://home-f03c2.firebaseio.com",
-    projectId: "home-f03c2",
-    storageBucket: "home-f03c2.appspot.com",
-    messagingSenderId: "832082931653"
+//paste your firebase config
   };
 firebase.initializeApp(config);
 
