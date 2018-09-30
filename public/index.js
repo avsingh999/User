@@ -26,12 +26,7 @@ var colorArray = [
 	'#ACF10D',
 	'#CDD5B9',
 ];
-// window.addEventListener('mousemove',
-//  function(event){
-//  	mouse.x=event.x;
-//  	mouse.y=event.y;
-	
-// })
+
 
 window.addEventListener('resize',function(){
 	canvas.width = window.innerWidth;
