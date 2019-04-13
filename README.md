@@ -1,6 +1,10 @@
 ## React With Firebase
+
+**live** https://festive-albattani-5499e8.netlify.com
+
+
 ```
-This is simple login and Sign Up React app. This app develope using React and Django.
+This is simple login and Sign Up React app. This app develope using React.
 ```
 ## Firebase
 ```
@@ -12,7 +16,11 @@ This is simple login and Sign Up React app. This app develope using React and Dj
 ## Run
 ```
 npm install
+&
+yarn install
 ```
 ```
 npm start
+&
+yarn start
 ```
