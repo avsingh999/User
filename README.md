@@ -1,6 +1,6 @@
 ## React With Firebase
 
-**live** https://festive-albattani-5499e8.netlify.com
+**live** http://myname.github.io/myapp"
 
 
 ```
