@@ -1,6 +1,6 @@
 ## React With Firebase
 
-**live** http://myname.github.io/myapp"
+**live** https://fire-react-user.netlify.com/
 
 
 ```
